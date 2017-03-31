@@ -1,0 +1,11 @@
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.exe
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeServer.pdb
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\Lidgren.Network.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\bin\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.exe
+C:\Desarrollo\Projects\TicTacToe\TicTacToeServer\TicTacToeServer\obj\Debug\TicTacToeServer.pdb

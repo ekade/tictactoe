@@ -1,0 +1,15 @@
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeCommon\bin\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeCommon\bin\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeCommon\obj\Debug\TicTacToeCommon.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeCommon\obj\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToeServer\TicTacToeCommon\obj\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToeCommon\bin\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToeCommon\bin\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToeCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Projects\TicTacToeCommon\obj\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToeCommon\obj\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToe\TicTacToeCommon\bin\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeCommon\bin\Debug\TicTacToeCommon.pdb
+C:\Desarrollo\Projects\TicTacToe\TicTacToeCommon\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeCommon\obj\Debug\TicTacToeCommon.dll
+C:\Desarrollo\Projects\TicTacToe\TicTacToeCommon\obj\Debug\TicTacToeCommon.pdb
